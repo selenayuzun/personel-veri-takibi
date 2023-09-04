@@ -14,7 +14,7 @@
             text-align: center;
         }
         .auto-style3 {
-            width: 517px;
+            width: 516px;
         }
     </style>
 </head>
